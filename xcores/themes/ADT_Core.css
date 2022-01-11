@@ -542,6 +542,23 @@
     background-color: transparent !important;
 }
 
+/* Temporary fix */
+.textArea-2CLwUE {
+    background-color: black;
+}
+.scrollableContainer-15eg7h {
+    background-color: black;
+}
+.peopleList-2VBrVI {
+    background-color: black;
+}
+.peopleColumn-1wMU14 {
+    background-color: black;
+}
+.scroller-18M1mG {
+    background-color: black;
+}
+
 /*~~ 4. Scrollbars ~~*/
 .theme-dark ::-webkit-scrollbar-track {
     background: transparent !important;
