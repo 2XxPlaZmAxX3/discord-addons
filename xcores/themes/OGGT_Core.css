@@ -47,7 +47,7 @@
 /*~~ 2. Vars ~~*/
 :root {
     /* Theme Support */
-    --oggt-build: "254";
+    --oggt-build: "255";
     --oggt-info: "Opera GX Gaming Theme " var(--oggt-build);
     --theme-name: "Opera GX Gaming Theme";
 
@@ -1598,7 +1598,7 @@ body,
 .userInfoSection-2acyCx+.userInfoSection-2acyCx {
     border-top-color: rgb(var(--accent-color-1));
 }
-/* UserPopouts/PopoutPreview */
+/* UserPopouts/ProfilePreview */
 #app-mount .userPopout-2j1gM4,
 #app-mount .profileBannerPreview-3mLIdO {
     border-radius: 0;
@@ -1615,6 +1615,9 @@ body,
 }
 .fakeActivityIcon-KeXVoI.wumpus-otZFUO {
     background-color: rgb(var(--accent-color-1), 0.7);
+}
+.banner-3D8GgT {
+    border-radius: 0;
 }
 /*.headerPlaying-j0WQBV,
 .topSectionPlaying-1J5E4n {
