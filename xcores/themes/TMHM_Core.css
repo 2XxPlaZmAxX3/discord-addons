@@ -2,13 +2,13 @@
 
 @import url(https://discord-addons.github.io/discord-addons/xcores/tools/TS_Core.css);
 :root {
-    --tmhm-build: "2";
+    --tmhm-build: "3";
     --theme-name: "Textarea Max Height Modifier";
 }
-.scrollableContainer-2NUZem {
+.scrollableContainer-15eg7h {
     max-height: var(--maxHeight);
 }
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before {
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
     display: var(--version001_tamhm, block) !important;
 }
 

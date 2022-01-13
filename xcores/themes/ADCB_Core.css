@@ -2,21 +2,19 @@
 
 @import url(https://discord-addons.github.io/discord-addons/xcores/tools/TS_Core.css);
 :root {
-    --adcb-build: "8";
+    --adcb-build: "9";
     --theme-name: "Always Display Channel Buttons";
 }
-.children-Bmpf2Q *,
-.children-gzQq2t *,
-.children-3rEycc * {
+.children-283-lq *,
+.children-1MGS9G * {
     display: flex !important;
     opacity: 1 !important;
     visibility: visible !important;
 }
-.userLimit-64AFxe,
-.userLimit-3aerPX {
+.userLimit-VbEkeM {
     margin-left: 3px;
 }
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before {
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
     display: var(--version001_adcb, block) !important;
 }
 

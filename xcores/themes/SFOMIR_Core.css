@@ -1,11 +1,11 @@
 /* Show Full Original Message In Replies */
 
 :root {
-    --sfomir-build: "2";
+    --sfomir-build: "3";
 }
 
-.repliedMessage-VokQwo .repliedTextPreview-2NBljf .repliedTextContent-1R3vnK, 
-.repliedMessage-VokQwo .repliedTextPreview-2NBljf .repliedTextContent-1R3vnK .inline {
+.repliedMessage-3Z6XBG .repliedTextPreview-1bvxun .repliedTextContent-2hOYMB, 
+.repliedMessage-3Z6XBG .repliedTextPreview-1bvxun .repliedTextContent-2hOYMB .inline {
     white-space: pre-line;
 }
 

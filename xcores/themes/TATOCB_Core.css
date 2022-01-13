@@ -2,10 +2,10 @@
 
 @import url(https://discord-addons.github.io/discord-addons/xcores/tools/TS_Core.css);
 :root {
-    --tatocb-build: "8";
+    --tatocb-build: "9";
     --theme-name: "Typing at Top of Chat Box";
 }
-.base-gE7OpD {
+.base-3bcbY3 {
     bottom: unset;
     top: -25px;
 }
@@ -17,25 +17,25 @@
 #bfredux {
     top: -15px !important;
 }
-.form-2fGMdU {
+.form-3gdLxP {
     margin-top: unset !important;
     padding-top: 0px !important;
     padding-left: 8px !important;
     padding-right: 8px !important;
 }
-.channelTextArea-rNsIhG {
+.channelTextArea-1FufC0 {
     margin-bottom: 8px;
 }
-.barBase-1c2Rfb {
+.barBase-3xxDXu {
     border-radius: 8px;
     margin-bottom: 23px;
     padding-bottom: 0;
 }
-.barBase-1c2Rfb:active {
+.barBase-3xxDXu:active {
     margin-bottom: 21px;
 }
 /* Update notice config */
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before {
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
     display: var(--version001_tatocb, block) !important;
 }
 

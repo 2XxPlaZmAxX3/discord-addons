@@ -1,7 +1,7 @@
 /* Custom Font for Discord */
 
 :root {
-    --cffd-build: "11";
+    --cffd-build: "12";
     --cf: var(--customFont, Whitney, Whitney Book, Helvetica Neue, Helvetica, Arial, sans-serif);
     --cbcf: var(--codeBlocksCustomFont, Consolas, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Monaco, Courier New, Courier, monospace);
 
@@ -20,18 +20,18 @@ textarea,
 }
 span[class*="hljs"],
 span[class*="hljs"] span,
-.codeLine-14BKbG span span span,
+.codeLine-3a3dbd span span span,
 code,
-.markup-2BOw-j code.inline,
-.codeBlockText-9TnoxQ,
-.codeLine-14BKbG,
-.after_inlineCode-1KfVgj,
-.before_inlineCode-1G9rTK,
-.inlineCode-2ngu6Y span,
-.durationTimeDisplay-jww5fr,
-.durationTimeSeparator-2_xpJ7,
+.markup-eYLPri code.inline,
+.codeBlockText-311wOq,
+.codeLine-3a3dbd,
+.after_inlineCode-WydEur,
+.before_inlineCode-xn8Llh,
+.inlineCode-2auMQi span,
+.durationTimeDisplay-QwCeRr,
+.durationTimeSeparator-1Cqi9N,
 .powercord-codeblock-table td,
-.maxLength-39QFBo {
+.maxLength-IdVNmX {
     font-family: var(--cbcf);
 }
 
