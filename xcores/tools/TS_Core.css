@@ -12,7 +12,7 @@
 :root {
     --theme-name: "The theme name is Unknown, please report. - Something"; /* Default value if the theme name is not set. */
 }
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before {
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
     content: var(--theme-name)" is broken/outdated! Please redownload the theme from \"discord-addons.github.io/themes\"." !important;
     display: block; /* Default value if the theme does not have this display property. */
     background-color: #3e82e5;
@@ -44,6 +44,6 @@
     z-index: 101;
     pointer-events: none;
 }
-.platform-win #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div:before {
+.platform-win #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div:before {
     border-top-left-radius: 6px;
 }

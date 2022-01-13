@@ -47,7 +47,7 @@
 /*~~ 2. Vars ~~*/
 :root {
     /* Theme Support */
-    --oggt-build: "255";
+    --oggt-build: "256";
     --oggt-info: "Opera GX Gaming Theme " var(--oggt-build);
     --theme-name: "Opera GX Gaming Theme";
 
@@ -5013,7 +5013,7 @@ g[class*="focusStroke"] {
     border-top: none;
 }
 /* View As Roles Notice */
-.notice-1tZwqv {
+.notice-2olXi7 {
     background-color: rgba(var(--header-transparency-color, 8, 5, 14), var(--header-transparency, 1)) !important;
     backdrop-filter: blur(var(--header-background-blur)) !important;
     color: rgb(var(--normal-hover-font));
@@ -5034,13 +5034,13 @@ g[class*="focusStroke"] {
 .subscribeTooltipWrapper-32-Ce8::after {
     display: none;
 }
-.lookInverted-2D7oAl.colorBrand-3cPPsm {
+.lookOutlined-3yKVGo.colorWhite-1H92hK {
     color: rgb(var(--fullwhite-font));
     background-color: rgb(var(--darker-background-color));
     border-radius: 0;
     border: solid 1px rgb(var(--accent-color-1));
 }
-.lookInverted-2D7oAl.colorBrand-3cPPsm:hover {
+.lookOutlined-3yKVGo.colorWhite-1H92hK:hover {
     border-color: rgb(var(--accent-color-2));
     background-color: rgb(var(--dark-background-color));
 }

@@ -1,27 +1,27 @@
 /* Make access to buttons easier */
 /* UserPanel */
-.sidebar-2K8pFh .alignStretch-DpGPf3.horizontal-2EEEnY.flex-1xMQg5 {
+.sidebar-1tnWFu .alignStretch-Uwowzr.horizontal-1Piu5-.flex-2S1XBF {
     margin-right: calc(var(--cSize) - var(--cSizeOnHover)) !important;
     transition: margin-right var(--time) ease;
     transition-delay: var(--delayOut);
 }
-.sidebar-2K8pFh:hover .alignStretch-DpGPf3.horizontal-2EEEnY.flex-1xMQg5 {
+.sidebar-1tnWFu:hover .alignStretch-Uwowzr.horizontal-1Piu5-.flex-2S1XBF {
     margin-right: 0 !important;
     transition: margin-right var(--time) ease;
     transition-delay: var(--delayIn);
 }
 /* ChannelButtons */
-.sidebar-2K8pFh .children-3rEycc,
-.sidebar-2K8pFh .children-L002ao,
-.sidebar-2K8pFh .children-gzQq2t {
+.sidebar-1tnWFu .children-1MGS9G,
+.sidebar-1tnWFu .children-3MeUvj,
+.sidebar-1tnWFu .children-283-lq {
     position: absolute !important;
     right: calc((var(--cSizeOnHover) - var(--cSize)) * -1 + 8px) !important;
     transition: right var(--time) ease;
     transition-delay: var(--delayOut);
 }
-.sidebar-2K8pFh:hover .children-3rEycc,
-.sidebar-2K8pFh:hover .children-L002ao,
-.sidebar-2K8pFh:hover .children-gzQq2t {
+.sidebar-1tnWFu:hover .children-1MGS9G,
+.sidebar-1tnWFu:hover .children-3MeUvj,
+.sidebar-1tnWFu:hover .children-283-lq {
     right: 8px !important;
     transition: right var(--time) ease;
     transition-delay: var(--delayIn);
